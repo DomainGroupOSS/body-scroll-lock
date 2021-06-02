@@ -1,10 +1,14 @@
 {
   "name": "@domain-group/body-scroll-lock",
-  "version": "2.6.4-domain.1",
+  "version": "2.7.0",
   "description": "Enables body scroll locking (for iOS Mobile and Tablet, Android, desktop Safari/Chrome/Firefox) without breaking scrolling of a target element (eg. modal/lightbox/flyouts/nav-menus)",
   "main": "lib/bodyScrollLock.min.js",
   "author": "Will Po",
-  "repository": "https://github.com/willmcpo/body-scroll-lock.git",
+  "repository": "https://github.com/domain-group/devops-horrible-things.git",
+  "repositryComment": "Actually this belongs at https://github.com/DomainGroupOSS/body-scroll-lock, it's intentionally set wrong above for the purpose of publishing to @domain-group scope for internal use.",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "license": "MIT",
   "files": [
     "lib"
