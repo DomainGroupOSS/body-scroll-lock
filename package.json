@@ -5,7 +5,7 @@
   "main": "lib/bodyScrollLock.min.js",
   "author": "Will Po",
   "repository": "https://github.com/domain-group/devops-horrible-things.git",
-  "repositryComment": "Actually this belongs at https://github.com/DomainGroupOSS/body-scroll-lock, it's intentionally set wrong above for the purpose of publishing to @domain-group scope for internal use.",
+  "repositoryComment": "Actually this belongs at https://github.com/DomainGroupOSS/body-scroll-lock, it's intentionally set wrong above for the purpose of publishing to @domain-group scope for internal use.",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
